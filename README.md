@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Dharun S 👋
 
-<!--
-**DharunS-25/DharunS-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Java | MERN | Python | SQL
 
-Here are some ideas to get you started:
+ Computer Science Student
+ Interested in Full Stack Development & Data Science
+ Building real-world web applications
+ Currently preparing for software developer roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Languages:
+Java | JavaScript | Python | SQL
+
+Frontend:
+HTML | CSS | JavaScript | React
+
+Backend:
+Node.js | Express.js | Java
+
+Database:
+MongoDB | MySQL
+
+Tools:
+Git | GitHub | VS Code
+
+## Featured Projects
+
+1. Job Application System
+2. NotifyFlow
+3. TrendAnalytics
+4. Employee Management System
+5. Weather Application
+
+## Coding
+
+LeetCode: https://leetcode.com/u/Dharun_25
+Portfolio: https://my-portfolio-application-five.vercel.app
+
+##  Contact
+
+Email: dharuns2508@gmail.com
+LinkedIn: https://www.linkedin.com/in/dharunrss10031725
