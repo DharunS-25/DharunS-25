@@ -3,7 +3,7 @@ Hi, I'm Dharun S 👋
 Full Stack Developer | Java | MERN | Python | SQL
 
  Computer Science Student
- Interested in Full Stack Development & Data Science
+ Interested in Full Stack Development 
  Building real-world web applications
  Currently preparing for software developer roles
 
