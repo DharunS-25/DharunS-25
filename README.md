@@ -1,4 +1,11 @@
-Hi, I'm Dharun S, a Computer Science student and aspiring Full Stack Developer with experience in Java, MERN Stack, Python, and SQL. I’m passionate about building real-world web applications and currently preparing to start my career as a Software Developer.
+Hi, I'm Dharun S 
+Full Stack Developer | Java | MERN | Python | SQL
+
+Computer Science student passionate about building scalable and real-world web applications.
+
+Focused on Full Stack Development, with a strong interest in creating efficient, responsive, and user-friendly applications.
+
+Currently preparing for Full Stack Developer and Software Developer roles while continuously improving my programming, problem-solving, and development skills.
 
 ## Tech Stack
 
